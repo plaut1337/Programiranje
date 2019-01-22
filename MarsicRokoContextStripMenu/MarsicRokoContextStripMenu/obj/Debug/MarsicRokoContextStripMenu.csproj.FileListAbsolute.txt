@@ -1,0 +1,10 @@
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\bin\Debug\MarsicRokoContextStripMenu.exe.config
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\bin\Debug\MarsicRokoContextStripMenu.exe
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\bin\Debug\MarsicRokoContextStripMenu.pdb
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.exe
+C:\Users\rockm\source\repos\MarsicRokoContextStripMenu\MarsicRokoContextStripMenu\obj\Debug\MarsicRokoContextStripMenu.pdb
