@@ -1,0 +1,10 @@
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\bin\Debug\MarsicRokoImageList.exe.config
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\bin\Debug\MarsicRokoImageList.exe
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\bin\Debug\MarsicRokoImageList.pdb
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.exe
+C:\Users\rockm\source\repos\MarsicRokoImageList\MarsicRokoImageList\obj\Debug\MarsicRokoImageList.pdb
