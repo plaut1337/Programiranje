@@ -1,0 +1,10 @@
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\bin\Debug\MarsicRokoTrackBar.exe.config
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\bin\Debug\MarsicRokoTrackBar.exe
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\bin\Debug\MarsicRokoTrackBar.pdb
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.exe
+C:\Users\rockm\source\repos\MarsicRokoTrackBar\MarsicRokoTrackBar\obj\Debug\MarsicRokoTrackBar.pdb

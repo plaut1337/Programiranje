@@ -1,0 +1,9 @@
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\bin\Debug\MarsicRokoPictureBox.exe.config
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\bin\Debug\MarsicRokoPictureBox.exe
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\bin\Debug\MarsicRokoPictureBox.pdb
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\obj\Debug\MarsicRokoPictureBox.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\obj\Debug\MarsicRokoPictureBox.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\obj\Debug\MarsicRokoPictureBox.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\obj\Debug\MarsicRokoPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\obj\Debug\MarsicRokoPictureBox.exe
+C:\Users\rockm\source\repos\MarsicRokoPictureBox\MarsicRokoPictureBox\obj\Debug\MarsicRokoPictureBox.pdb

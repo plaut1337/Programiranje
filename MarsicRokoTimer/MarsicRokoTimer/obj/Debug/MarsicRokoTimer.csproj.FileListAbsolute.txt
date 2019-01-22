@@ -1,0 +1,10 @@
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\bin\Debug\MarsicRokoTimer.exe.config
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\bin\Debug\MarsicRokoTimer.exe
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\bin\Debug\MarsicRokoTimer.pdb
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.exe
+C:\Users\rockm\source\repos\MarsicRokoTimer\MarsicRokoTimer\obj\Debug\MarsicRokoTimer.pdb

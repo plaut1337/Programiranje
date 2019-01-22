@@ -1,0 +1,10 @@
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\bin\Debug\MarsicRokoRichTextBox.exe.config
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\bin\Debug\MarsicRokoRichTextBox.exe
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\bin\Debug\MarsicRokoRichTextBox.pdb
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.exe
+C:\Users\rockm\source\repos\MarsicRokoRichTextBox\MarsicRokoRichTextBox\obj\Debug\MarsicRokoRichTextBox.pdb
