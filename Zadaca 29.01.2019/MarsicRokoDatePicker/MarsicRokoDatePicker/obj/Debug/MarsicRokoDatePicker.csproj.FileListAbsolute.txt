@@ -1,0 +1,11 @@
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.csprojAssemblyReference.cache
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.Form1.resources
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.Properties.Resources.resources
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.csproj.GenerateResource.cache
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.csproj.CoreCompileInputs.cache
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\bin\Debug\MarsicRokoDatePicker.exe.config
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\bin\Debug\MarsicRokoDatePicker.exe
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\bin\Debug\MarsicRokoDatePicker.pdb
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.exe
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.pdb
+C:\Users\rockm\source\repos\MarsicRokoDatePicker\MarsicRokoDatePicker\obj\Debug\MarsicRokoDatePicker.Form2.resources
