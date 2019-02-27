@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\obj\Debug\MarsicRokoZadatakZaKraj.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\obj\Debug\MarsicRokoZadatakZaKraj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\bin\Debug\MarsicRokoZadatakZaKraj.exe.config
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\bin\Debug\MarsicRokoZadatakZaKraj.exe
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\bin\Debug\MarsicRokoZadatakZaKraj.pdb
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\obj\Debug\MarsicRokoZadatakZaKraj.exe
+C:\Users\Admin\source\repos\MarsicRokoZadatakZaKraj\MarsicRokoZadatakZaKraj\obj\Debug\MarsicRokoZadatakZaKraj.pdb
